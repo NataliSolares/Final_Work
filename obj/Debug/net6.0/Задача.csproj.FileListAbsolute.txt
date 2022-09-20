@@ -1,0 +1,15 @@
+D:\IT\Контрольная работа\Задача\bin\Debug\net6.0\Задача.exe
+D:\IT\Контрольная работа\Задача\bin\Debug\net6.0\Задача.deps.json
+D:\IT\Контрольная работа\Задача\bin\Debug\net6.0\Задача.runtimeconfig.json
+D:\IT\Контрольная работа\Задача\bin\Debug\net6.0\Задача.dll
+D:\IT\Контрольная работа\Задача\bin\Debug\net6.0\Задача.pdb
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.csproj.AssemblyReference.cache
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.AssemblyInfoInputs.cache
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.AssemblyInfo.cs
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.csproj.CoreCompileInputs.cache
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.dll
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\refint\Задача.dll
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.pdb
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\Задача.genruntimeconfig.cache
+D:\IT\Контрольная работа\Задача\obj\Debug\net6.0\ref\Задача.dll
